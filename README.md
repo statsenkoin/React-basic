@@ -23,3 +23,4 @@ https://mysite.com/books/e3q76gm9lzk?category=adventure&status=unread#comments
    index.js обернути компонентом <BrowserRouter> всі програми.
 3. Компоненти <Route> та <Routes>
 4. Компоненти <Link> та <NavLink> + npm i styled-components
+5. Хук useParams
