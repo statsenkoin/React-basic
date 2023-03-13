@@ -24,3 +24,4 @@ https://mysite.com/books/e3q76gm9lzk?category=adventure&status=unread#comments
 3. Компоненти <Route> та <Routes>
 4. Компоненти <Link> та <NavLink> + npm i styled-components
 5. Хук useParams
+6. Вкладені маршрути. <Outlet>
